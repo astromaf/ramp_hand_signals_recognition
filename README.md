@@ -5,29 +5,32 @@ The main objective of this undertaking is the design and validation of a visual 
 With this purpose in mind, techniques based on pre-trained neural networks for the sequential prediction of human pose and additional ensemble methods for the classification of gestures, will be employed.
 
 **Keywords:** Real-time, Gesture Recongition, Convolutional Pose Machines, Aircraft Marshalling Signals, UAVs, Jetson Nano.
-
+<p align="center">
+  
 ![CONOPS](Figures/1_2.png?raw=true "System Overview")
-"System Overview"
+***Fig1. System Overview***
 
 ![Setup](Figures/4_1.jpg?raw=true "Main HW architecture")
-"Main HW architecture"
+***Fig2. Main HW architecture***
 
 ![GUI](Figures/4_2.png?raw=true "Best Architecture")
-"Best Modelo Architecture: CPM+ANN/RF"
+***Fig3. Best Modelo Architecture: CPM+ANN/RF***
 
 ![GUI](Figures/5_1.jpg?raw=true "Graphical Interface")
 
-"Graphical Interface Developed"
+***Fig4. Graphical Interface Developed***
+</p>
 
-**Videos:**
+## Videos:
 - Video Nº1. Real-time execution architecture based on: CPM+ANN. https://www.youtube.com/watch?v=gknhEQl33qg 
 - Video Nº2. Real-time execution architecture based on: CPM+RF. 
 - Video Nº3. Real-time execution architecture based on: CCN (Night Operation). https://www.youtube.com/watch?v=I1gLHTC2S2Y 
 
-**Main References:**
+## Main References:
 - TensorRT Pose Estimation: https://github.com/NVIDIA-AI-IOT/trt_pose
 - NVIDIA Getting Started With Jetson Nano Developer Kit https://developer.nvidia.com/embedded/learn/get-started-jetson-nano-devkit
-
+## License:
+GPU v3.0: https://github.com/astromaf/ramp_hand_signals_recognition/blob/master/LICENSE
 
 
 
