@@ -8,18 +8,33 @@ With this purpose in mind, techniques based on pre-trained neural networks for t
 <p align="center">
   
 ![CONOPS](Figures/1_2.png?raw=true "System Overview")
-***Fig1. System Overview***
+
+
+*Fig1. System Overview*
+
+
 
 ![Setup](Figures/4_1.jpg?raw=true "Main HW architecture")
-***Fig2. Main HW architecture***
+
+
+*Fig2. Main HW architecture*
+
+
 
 ![GUI](Figures/4_2.png?raw=true "Best Architecture")
-***Fig3. Best Modelo Architecture: CPM+ANN/RF***
+
+
+*Fig3. Best Modelo Architecture: CPM+ANN/RF*
+
+
 
 ![GUI](Figures/5_1.jpg?raw=true "Graphical Interface")
 
-***Fig4. Graphical Interface Developed***
+
+*Fig4. Graphical Interface Developed*
 </p>
+
+
 
 ## Videos:
 - Video Nº1. Real-time execution architecture based on: CPM+ANN. https://www.youtube.com/watch?v=gknhEQl33qg 
