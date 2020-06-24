@@ -39,7 +39,7 @@ With this purpose in mind, techniques based on pre-trained neural networks for t
 ## Videos:
 - Video Nº1. Real-time execution architecture based on: CPM+ANN. https://www.youtube.com/watch?v=gknhEQl33qg 
 - Video Nº2. Real-time execution architecture based on: CPM+RF. https://www.youtube.com/watch?v=VEt8DadGwLU&feature=youtu.be
-- Video Nº3. Real-time execution architecture based on: CCN (Night Operation). https://www.youtube.com/watch?v=I1gLHTC2S2Y 
+- Video Nº3. Real-time execution architecture based on: CCN (Night Operation). https://youtu.be/aJ8TJzfSGjs
 
 ## Main References:
 - TensorRT Pose Estimation: https://github.com/NVIDIA-AI-IOT/trt_pose
