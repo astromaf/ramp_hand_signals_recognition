@@ -34,7 +34,8 @@ With this purpose in mind, techniques based on pre-trained neural networks for t
 *Fig4. Graphical Interface Developed*
 </p>
 
-
+## Project Slides:
+- https://github.com/astromaf/ramp_hand_signals_recognition/blob/master/Doc/TFM_MA_deFrutos_Deposito.pdf
 
 ## Videos:
 - Video Nº1. Real-time execution architecture based on: CPM+ANN. https://www.youtube.com/watch?v=gknhEQl33qg 
