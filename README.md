@@ -9,31 +9,36 @@ With this purpose in mind, techniques based on pre-trained neural networks for t
 <p align="center">
 
 ![Real Operation](https://github.com/astromaf/ramp_hand_signals_recognition/blob/master/Real%20Test%20validation/v1_gif.gif "Real Test")
+
+
+![](https://github.com/astromaf/ramp_hand_signals_recognition/blob/master/Real%20Test%20validation/01_Setup.jpg)
+
+*Fig1. Real test Setup*
   
 ![CONOPS](Figures/1_2.png?raw=true "System Overview")
 
 
-*Fig1. System Overview*
+*Fig2. System Overview*
 
 
 ![Setup](Figures/4_1.jpg?raw=true "Main HW architecture")
 
 
-*Fig2. Main HW architecture*
+*Fig3. Main HW architecture*
 
 
 
 ![GUI](Figures/4_2.png?raw=true "Best Architecture")
 
 
-*Fig3. Best Modelo Architecture: CPM+ANN/RF*
+*Fig4. Best Modelo Architecture: CPM+ANN/RF*
 
 
 
 ![GUI](Figures/5_1.jpg?raw=true "Graphical Interface")
 
 
-*Fig4. Graphical Interface Developed*
+*Fig5. Graphical Interface Developed*
 </p>
 
 ## Project Slides:
