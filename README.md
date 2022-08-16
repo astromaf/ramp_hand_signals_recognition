@@ -7,12 +7,13 @@ With this purpose in mind, techniques based on pre-trained neural networks for t
 
 **Keywords:** Real-time, Gesture Recongition, Convolutional Pose Machines, Aircraft Marshalling Signals, UAVs, Jetson Nano.
 <p align="center">
+
+![Real Operation](https://github.com/astromaf/ramp_hand_signals_recognition/blob/master/Real%20Test%20validation/v1_gif.gif "Real Test")
   
 ![CONOPS](Figures/1_2.png?raw=true "System Overview")
 
 
 *Fig1. System Overview*
-
 
 
 ![Setup](Figures/4_1.jpg?raw=true "Main HW architecture")
